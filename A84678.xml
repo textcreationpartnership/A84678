@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fair play in the lottery, or mirth for money. In several witty passages and conceits of persons that came to the lottery. / Represented by way of droll By E F. Gent.</title>
+            <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84678</idno>
+            <idno type="STC">Wing F1461</idno>
+            <idno type="STC">Thomason E1865_2</idno>
+            <idno type="STC">ESTC R210235</idno>
+            <idno type="EEBO-CITATION">99869051</idno>
+            <idno type="PROQUEST">99869051</idno>
+            <idno type="VID">170487</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170487)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 232:E1865[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Fair play in the lottery, or mirth for money. In several witty passages and conceits of persons that came to the lottery. / Represented by way of droll By E F. Gent.</title>
+                  <author>E. F. (Edward Ford), fl. 1630?-1660.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Brugis at the signe of the Sir Iohn Oldcastle in Pye-corner.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>E.F. = Edward Ford.</note>
+                  <note>In verse.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 1660 [illegible]".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lotteries --  England --  Early works to 1800.</term>
+               <term>Political satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170487:1" rendition="simple:additions"/>
+            <p>FAIR PLAY In the LOTTERY, OR Mirth for Money.</p>
+            <p>In ſeveral witty paſſages and conceits of Perſons that came to the Lottery.</p>
+            <p>Repreſented by way of Droll</p>
+            <p>By E F. Gent.</p>
+            <p>Printed by <hi>H. Brugis</hi> at the Signe of the Sir <hi>Iohn Oldcaſtle</hi> in <hi>Pye-Corner.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170487:2"/>
+            <pb facs="tcp:170487:2"/>
+            <head>TO THE Right Worſhipful and In<g ref="char:EOLhyphen"/>genious, Sir <hi>EDWARD FORD</hi> Knight, the Author wiſhes much health and happineſs.</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THe many favours that I have of late received from you, has very much induced me for to preſent my few Obſervations unto your knowing view. I muſt confeſs they are not worthy Your ſeri<g ref="char:EOLhyphen"/>ous ſpeculation, being but a little Drollery of ſome ſorts of people at your Lottery: In a word Sir, if you pleaſe for once to Patronize this little piece, if e're a better bud ſpring up to my hand, the whole Stock is yours, Root and Branch, in the interim I take leave to remain,</p>
+            <closer>
+               <signed>Your affectionate and aſſured Servant to command <hi>EDWARD FORD.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="4" facs="tcp:170487:3"/>
+            <head>On Lotteries.</head>
+            <l>LOtteries or Chances, chances here below,</l>
+            <l>Are too too frequent, yet men deſire to know</l>
+            <l>Something on that account, to ſignifie,</l>
+            <l>Being mutual here, their mutability:</l>
+            <l>And thus in order every man does crave</l>
+            <l>Something, that's changing to his very grave,</l>
+            <l>That work being done, no doubt he doth ſurmiſe</l>
+            <l>Blanks ſtand for nought, tis faith that gets the prize.</l>
+         </div>
+         <div type="poem">
+            <head>On a Gentlewoman with child, that long'd to draw a peice of plate and could not.</head>
+            <l>VVHen Ladies long for Plate that is obſcure,</l>
+            <l>And very fairly ventures, yet not ſure;</l>
+            <l>Who knowes the Babe within her may confeſs</l>
+            <l>And weep in ſecret for her ſad ſucceſs.</l>
+            <l>Alas! the little Infant never ſaw</l>
+            <l>The Plate ſhe wiſht, and had a mind to draw,</l>
+            <l>And yet by conſequence this drawn may be,</l>
+            <l>She long'd for ſomthing in the Lottery,</l>
+            <l>Lady I pitty you, becauſe your lot</l>
+            <l>Seem'd for to frown which wo'd have ſmil'd being got</l>
+            <l>That Lotteries cruel for to make him rue</l>
+            <l>You loſt your p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſe and wrong'd your infant too</l>
+            <l>Yet Miſtriſs don't diſpond it is not known</l>
+            <l>How ſoon bad fortune may be overthrown,</l>
+            <l>For though the lott into the lap is caſt</l>
+            <l>The Baſon and Ure may be yours at laſt.</l>
+         </div>
+         <div type="poem">
+            <pb n="5" facs="tcp:170487:3"/>
+            <head>Of a blind Maid that came to ſee the Lotteryr.</head>
+            <l>SHe was pretty merry though of a mean ranck</l>
+            <l>For ſhe did laugh to hear ſhe had a blank,</l>
+            <l>Her fortune being hard ſhe would not ſtay,</l>
+            <l>She came in blind, and ſo ſhe went away.</l>
+            <l>It was a blind come off well met ſaith ſhe,</l>
+            <l>Fortnne's as blind as I, I plainly ſee.</l>
+         </div>
+         <div type="poem">
+            <head>On a handſome Sempſtris that came to the <hi>Lot<g ref="char:EOLhyphen"/>tery</hi> to put in her White hand into the Box</head>
+            <l>VVHat do you grope for Miſtreſs, why entice</l>
+            <l>With ſuch a tempting hand Fortune the</l>
+            <l>Shee's coy and skittiſh, will not, cannot ſtand</l>
+            <l>And though you ſtroke her will not come to hand, nice,</l>
+            <l>Your powerful touch that all fleſh can allure</l>
+            <l>Cannot tempt down a Spoon much leſs the Ure,</l>
+            <l>Forbear, you Tarniſh all the Plate we ſhew,</l>
+            <l>It all ſeems copper to your brighter hue.</l>
+            <l>The beauteous luſtre that enchants the eyes</l>
+            <l>And makes their Purſes not our Plate the Prize</l>
+            <l>Loſes its charming look while all admire</l>
+            <l>And who, that fairer better ſhew enquire.</l>
+            <l>But Fortune would not ſully that fair ſight</l>
+            <l>A blank was drawn and ſo twas white to white.</l>
+            <l>Nothing but blanks ſhe drew, in my opinion</l>
+            <l>'Twas a friend of mine one Miſtreſs <hi>B</hi>—</l>
+         </div>
+         <div type="poem">
+            <pb n="6" facs="tcp:170487:4"/>
+            <head>Of one that got a Silver Tankerd.</head>
+            <l>A Gentlewoman, whoſe fortune did abound</l>
+            <l>Made her to prize for joy her happy ſtate</l>
+            <l>And all her wiſhes for the preſent crownd</l>
+            <l>Obtaining ſuch a handſome piece of plate,</l>
+            <l>Comely ſhe was as moſt is in the town</l>
+            <l>Though at a bluſh ſhe look't a little Brown.</l>
+         </div>
+         <div type="poem">
+            <head>Of one that murmured at his hard miſ<g ref="char:EOLhyphen"/>fortune.</head>
+            <l>BUt one being angry as it did appear</l>
+            <l>His fortune was not good at that ſame time</l>
+            <l>Paper he did proteſt was very dear</l>
+            <l>Or elſe 'twas made of rags was very fine,</l>
+            <l>And told his neighbour in a murmuring ſpeech</l>
+            <l>He had not Paper enough, to wipe his breech.</l>
+         </div>
+         <div type="poem">
+            <head>On a Cook that came to the <hi>Lottery.</hi>
+            </head>
+            <l>SOon after this coms in a jovial Cook,</l>
+            <l>And he adventures very free and faire</l>
+            <l>He lives hard by <hi>Py-Corner,</hi> or <hi>Paſty nook,</hi>
+            </l>
+            <l>As true a Trout as other Trojans are;</l>
+            <l>He loſt his money, but wiſht me hold my peace</l>
+            <l>Or elſe he vow'd to fret in his own greaſe.</l>
+         </div>
+         <div type="poem">
+            <pb n="7" facs="tcp:170487:4"/>
+            <head>On a humourous Gentelman that complained to a Lady what mony he had loſt.</head>
+            <l>I vow ſweet Lady, Fortune doth not advance</l>
+            <l>My fate at all, but ſends me ſtill ill chance,</l>
+            <l>A bove three pound dear Madam it has coſt me</l>
+            <l>And ſtill the blanks has play'd the fools &amp; croſt me,</l>
+            <l>Yet I will not deſpond, no more then brag</l>
+            <l>
+               <hi>Harry</hi> go home, and fetch me tother bagg</l>
+            <l>And if I loſe again and nothing get</l>
+            <l>Though I learn nothing it ſhall teach me wit.</l>
+         </div>
+         <div type="poem">
+            <head>On a poore Labourer that got two peices of plate for two ſhillings.</head>
+            <l>AMongſt a ſort of Sparks a Labourer comes</l>
+            <l>For to adventure as your gallants do</l>
+            <l>And hee's in hope for to pick up his crums</l>
+            <l>As in concluſion it prov'd very true,</l>
+            <l>His Fortune that was good, ſay what you pleaſe</l>
+            <l>He labour'd hard and yet got plate with eaſe</l>
+         </div>
+         <div type="poem">
+            <head>On a Lady that asked if there were ever a ſtew pot in the <hi>Lottery</hi> or no.</head>
+            <l>NO Madam ſayes the Trumpet, yet ther's a Lot</l>
+            <l>Though not for ſtews, for this ſame Chamber<g ref="char:EOLhyphen"/>pot.</l>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:170487:5"/>
+            <head>On a Taylor that came to the <hi>Lotteriy.</hi>
+            </head>
+            <l>BUt then a nimble Taylor he come in</l>
+            <l>And muſt have a dozen Lots, I that he muſt</l>
+            <l>He was as ſpruce we thought as he was trim</l>
+            <l>And ask't if we had faith enough to truſt</l>
+            <l>T'was Anſwer'd that would do very well</l>
+            <l>For ſometimes hee'd not truſt a rag in Hell.</l>
+         </div>
+         <div type="poem">
+            <head>Of a merry Gentelman that loſt ſome mony at the <hi>Lottery.</hi>
+            </head>
+            <l>A pretty Gentelman and his indeared Bride</l>
+            <l>Came to the Lottery to ſport a while</l>
+            <l>Only another Lady too beſide,</l>
+            <l>Merry they ſeem'd to be for they did ſmile,</l>
+            <l>They ventur'd very fair for Cup or Bowl</l>
+            <l>Yet ſtill they loſt, and that was very foul,</l>
+            <l>When they had loſt what they thought good them<g ref="char:EOLhyphen"/>ſelves</l>
+            <l>The Gentelman did ſay that he wood ſend</l>
+            <l>(Firſt looking merily upon the ſhelves)</l>
+            <l>For the plate he had won, by a Porter or a Frind,</l>
+            <l>The Porter came not as he did indent</l>
+            <l>And thereupon the plate was never ſent.</l>
+         </div>
+         <div type="poem">
+            <pb n="9" facs="tcp:170487:5"/>
+            <head>On a Bailf that came to the <hi>Lottery.</hi>
+            </head>
+            <l>COme on my boy give me as many lotts</l>
+            <l>As thou canſt well afford for a mery Crowne,</l>
+            <l>Better ſpent here, then waſted upon ſots,</l>
+            <l>If Fortune be not dogged, and too much frown</l>
+            <l>Pox on't, the'r blanks this 'tis to minde your pelf</l>
+            <l>I have often pincht others, and now I am pincht, my ſelf.</l>
+         </div>
+         <div type="poem">
+            <head>On a merry Gentleman and his Lady that came to the <hi>Lottery.</hi>
+            </head>
+            <l>LAd, ſome lots, pox on your drilling way</l>
+            <l>You are no Cheats, what are you then I pray?</l>
+            <l>I have had twenty now and never a prize</l>
+            <l>Take em you knave juſt where the Baſon lyes</l>
+            <l>Tis not a peny matter for the Ure</l>
+            <l>For that lyes pretty ſafe I am very ſure</l>
+            <l>Well done, lets ſee if there be nothing here</l>
+            <l>I will not venture a peny more this year.</l>
+            <l>Hetherto blanks prove they all, ſo we are ſow'ſt</l>
+            <l>And may conclude Sweet Lady we are Chouſt</l>
+         </div>
+         <div type="poem">
+            <head>On a Whore that came to the <hi>Lottery.</hi>
+            </head>
+            <l>COme on my boy, give mee a lot or two</l>
+            <l>If I get any thing Ile pay thee well</l>
+            <l>I get my mony light enough tis true,</l>
+            <l>And that my Neighbours if you aske, can tell;</l>
+            <l>Well done lad if there be written in't</l>
+            <l>Ile give 't a foole or have it put in print.</l>
+         </div>
+         <div type="poem">
+            <pb n="10" facs="tcp:170487:6"/>
+            <head>Of one that ſaid the <hi>Lottery</hi> was a mere Cheate.</head>
+            <l>THere is a ſort of raſh and Childiſh elvs</l>
+            <l>That calls your Lotteries Cheats and cunning ſnaps</l>
+            <l>When tis well known that they do cheat themſelves</l>
+            <l>The baite proceeding ſtill from their own traps</l>
+            <l>Thers none compel'd to venture, is there pray?</l>
+            <l>Then who can help the thing, that will away.</l>
+            <l>But grant it be a Cheat, you'l grant this too</l>
+            <l>The world's a Cheat, then pray Sir what are you.</l>
+         </div>
+         <div type="poem">
+            <head>On an old Woman that came to the <hi>Lottery</hi> with Spectacles.</head>
+            <l>BUt then an antient Matron ſhe comes in</l>
+            <l>In hope to be a gainer with the reſt?</l>
+            <l>But to ſay truth, ſhe loſt and did not win:</l>
+            <l>Her Fortune being then, none of the beſt.</l>
+            <l>Her Spectacles did help her for to light</l>
+            <l>Her purſe, as well as eyes that wanted ſight.</l>
+         </div>
+         <div type="poem">
+            <head>On a Pickpocket that came to venture his mony at the <hi>Lottery</hi>
+            </head>
+            <l>A pickpocket or own they call a foyle</l>
+            <l>Came to the Lottery and ventur'd half a peice</l>
+            <l>You muſt think he did not get it with much toyle;</l>
+            <l>So long as Crowds do ſtock, or any geeſe.</l>
+            <l>They all prove'd blanks which made him ſay in fine</l>
+            <l>This Trade is Cunninger by half then mine.</l>
+         </div>
+         <div type="poem">
+            <pb n="11" facs="tcp:170487:6"/>
+            <head>On an honeſt woman that won a Silver Flagon at the <hi>Lottery.</hi>
+            </head>
+            <l>SWeet Miſtris <hi>Walker,</hi> I muſt needs confeſs</l>
+            <l>I cannot chuſe but much Congratulate</l>
+            <l>This happy Fortune, and thy good ſucceſs,</l>
+            <l>In wininng ſuch a handſome piece of plate,</l>
+            <l>I wiſh for thy ſake it had been a better thing</l>
+            <l>Becauſe I am ſure th'art one that loves the King.</l>
+         </div>
+         <div type="poem">
+            <head>On a Cookes wife that did dream ſhe won a peice of Plate</head>
+            <l>IT ſeems you dream't, you won a piece of plate</l>
+            <l>But when you waked found t'was no ſuch thing</l>
+            <l>Then t'was your dream made you ſo fortunate</l>
+            <l>And to your ſences did ſuch ſolace bring.</l>
+            <l>Even ſo men dream here to get joy and bliſe</l>
+            <l>But when they wake, they find how true it is.</l>
+            <l>But Miſtris pray ſuppoſe that I had dream't</l>
+            <l>I had gi'n you a ſound, for that ſame Plate you got</l>
+            <l>And for my paines you gave me good content</l>
+            <l>Which love of yours ought not to be forgot.</l>
+            <l>But putting up my mony I did finde</l>
+            <l>Twas but a dream, I ſaw you not ſo kinde.</l>
+         </div>
+         <div type="poem">
+            <pb n="12" facs="tcp:170487:7"/>
+            <head>On a Player that came to the <hi>Lottery.</hi>
+            </head>
+            <l>AN honeſt Player unto the Lottery came</l>
+            <l>And in a frolicke, ventur'd a Crown or two</l>
+            <l>Tis not a halfe peny matter for his name</l>
+            <l>Becauſe there was no forme in't that I knew</l>
+            <l>He drank to me and ſetting down the glaſs</l>
+            <l>Said he had acted fare to play the aſſe.</l>
+         </div>
+         <div type="poem">
+            <head>A few Lines upon the breaking up of <hi>Sir Ed<g ref="char:EOLhyphen"/>ward Fords Lottery</hi> at the <hi>Crown</hi> in <hi>Smithfield.</hi>
+            </head>
+            <l>FOr whoſe good hap the Trumpet cheerfull ſounds</l>
+            <l>And his ſucceſs with joy and Triumph Crownes</l>
+            <l>And as promiſtuouſly ther's many a blank</l>
+            <l>Throwne in the box for one prize that is good</l>
+            <l>Even ſo of every ſort degree and ranke</l>
+            <l>That comes with the world of fleſh and blood.</l>
+            <l>This ſad experience we have allwaies had</l>
+            <l>For one man that is good ther's twenty bad</l>
+            <l>The pretty Child that drawes to day his lots</l>
+            <l>Demonſtrates innocently very Cleare</l>
+            <l>And thoſe devided by a ſort of ſotts</l>
+            <l>That makes no uſe of what they ſee or hear,</l>
+            <l>O that by faith a Lottery drawn might be.</l>
+            <l>To do our ſouls good to eternity</l>
+            <l>On this conſideration we ſhould ſtrive</l>
+            <pb n="13" facs="tcp:170487:7"/>
+            <l>For to get faith which is a glorious prize</l>
+            <l>And will no doubt kepe our poor ſouls alive</l>
+            <l>When other comforts periſhes and dies</l>
+            <l>And in concluſion, Carefull to be found</l>
+            <l>Cloath'd with the weding garment and ſo Crownd.</l>
+         </div>
+         <div type="poem">
+            <head>On <hi>Jack Adams</hi> innocent of <hi>Clarkenwell</hi>
+            </head>
+            <l>AHa look yonder Mamy, ther's a danty thing</l>
+            <l>If we had that two'd make us laugh and ſing</l>
+            <l>Harke Mamy the Trumpit boes,</l>
+            <l>I'de venture a peny or a crooked pin</l>
+            <l>If I were ſure to loſe and not to win.</l>
+            <l>Mamy you muſt call to this great boy</l>
+            <l>Hear, he wonte let me a ſee this fine toy</l>
+            <l>Which me thinks finely ſhews</l>
+            <l>Own ſtanding by, upon his words ſtreigh ſwore</l>
+            <l>He never ſaw a fool at a Lottery before;</l>
+            <l>Another anſwered, Friend it is not ſo</l>
+            <l>There's none but fools come there for ought I know</l>
+         </div>
+         <div type="poem">
+            <head>On a drunckenman that came to venture his Mo<g ref="char:EOLhyphen"/>ny at the <hi>Lottery</hi>
+            </head>
+            <l>TRumpet I'de have you know that I am willing</l>
+            <l>To venture my mony as free as any man</l>
+            <l>Give me a lot old boy, and their's a ſhilling</l>
+            <l>I'le have the baſon and Ure if I can</l>
+            <l>Yet having got a cup, it was his lot,</l>
+            <l>To have a blank, yet cal'd for tother Pot.</l>
+         </div>
+         <div type="poem">
+            <pb n="14" facs="tcp:170487:8"/>
+            <head>On a Merry Cobler living in <hi>Smithfeld</hi>
+            </head>
+            <l>BUt then an honeſt Cobler my good Friend,</l>
+            <l>A great mind had to get a piece of plate</l>
+            <l>He lives in Smithfeld nere to Duck Lane end</l>
+            <l>So he might have it at an eaſy rate.</l>
+            <l>But being greev'd to ſee ſome loſe in Pluſh,</l>
+            <l>One Bird i'th hand is ſtill worth two i'th Buſh.</l>
+            <l>At length with courage Hector like he came</l>
+            <l>And did deſire a Lot might favor, who</l>
+            <l>Had put his genius in a noble frame.</l>
+            <l>Making him merry and his Neighbours too.</l>
+            <l>His Mony then being miſſing in his purſe</l>
+            <l>For madneſs the next day, waxt worſe and worſe</l>
+            <l>Scorning their laughter, for one ſmall peece,</l>
+            <l>Next day he comes and calls for more,</l>
+            <l>And then he loſt a pretey handſome fleece</l>
+            <l>I think in Shillings twas ſome three or four</l>
+            <l>Although his daily labour is in Leather</l>
+            <l>He cannot yet bring both his ends together</l>
+            <l>E're frantick like, his fortune was ſo bad</l>
+            <l>He made a vow, to come there no more</l>
+            <l>And for a day or two was very ſad</l>
+            <l>Which in a Welſhman ſeem'd but very poor.</l>
+            <l>Yet ſtill ſayes e're the Lottery be paſt</l>
+            <l>Hee'l come and venture and win all at laſt.</l>
+         </div>
+         <div type="poem">
+            <head>On a poor man that came to the <hi>Lottery.</hi>
+            </head>
+            <l>AT length a poor man comes amongſt the reſt</l>
+            <l>To venture a Shilling or two in hope to win</l>
+            <l>Though for my part I did bed him ſtraight</l>
+            <l>Not for to do ſo, cauſe he look't ſo thin</l>
+            <l>In breif he loſt, yet if you'l take my word</l>
+            <l>He had his Coyne again, of Sir <hi>Edward Ford.</hi>
+            </l>
+         </div>
+         <div type="poem">
+            <pb n="15" facs="tcp:170487:8"/>
+            <head>On a <hi>Capt.</hi> that got two pieces of Plate for Twenty Shillings</head>
+            <l>ANd then a Captain he drew for a piece,</l>
+            <l>Two pieces of plate, both coſtly ones indeed</l>
+            <l>One he beſtowed I think upon his Neece,</l>
+            <l>Still loving for to pleaſure thoſe that need.</l>
+            <l>He call'd for Sack which I gueſt very fine</l>
+            <l>He had a Caudle cup, and I a cup of wine.</l>
+            <l>Likewiſe a Lady living in this Towne,</l>
+            <l>For one five Shillings two handſome prizes drew</l>
+            <l>One as I take it was a bonny Crowne,</l>
+            <l>The other a Sugar box, both good and new.</l>
+            <l>And yet t'is like you'le ſay, in jeſting ſort</l>
+            <l>She had a Sugar box, but paid ſweetly for't.</l>
+         </div>
+         <div type="poem">
+            <head>On a Sparke</head>
+            <l>I like your Gallant Sparks, that now and then</l>
+            <l>Ventures his mony at Lotteries like man,</l>
+            <l>For if his calculation be but ſound</l>
+            <l>For own poor Shilling he may get a pound,</l>
+            <l>Had I ſaid twenty pound I had not ly'd</l>
+            <l>Set but your blanks, and ſcurvy chance aſide:</l>
+            <l>But he ſhall ſure be poor and come to lack</l>
+            <l>That loſes all and leaves no Coyne for Sack.</l>
+         </div>
+         <div type="poem">
+            <pb n="16" facs="tcp:170487:9"/>
+            <head>Of an old Uſurer that came to the <hi>Lottery</hi>
+            </head>
+            <l>BUt then a greedy Uſurer in truth</l>
+            <l>Came to the ſport only in love to ſee</l>
+            <l>If he could get him any thing forſooth</l>
+            <l>That had got ſo much before by Uſuery</l>
+            <l>He loſt one ſhilling, which made him look full ſad</l>
+            <l>Another to it would have made him mad.</l>
+         </div>
+         <div type="poem">
+            <head>The Embleme of a <hi>Lottery.</hi>
+            </head>
+            <l>THis World may very well compared be</l>
+            <l>By its Contracting and uncertain waies</l>
+            <l>Very much like unto a Lottery</l>
+            <l>That is ſo frequent uſed now adayes</l>
+            <l>For ſtill the Revolutions of theſe things</l>
+            <l>Makes ſome men ſad, whilſt others gladly ſings</l>
+            <l>The wicked ſort, they do Reſemble much</l>
+            <l>Your blanks, that ſeemes ſo white unto the eyes</l>
+            <l>But being open'd torne is with a touch</l>
+            <l>Thrown under foot and there in dirt it lyes.</l>
+            <l>The Trumpet never ſounds for any thoſe</l>
+            <l>Nor thankes return'd for any Choſe</l>
+            <l>But then your holy and religious man</l>
+            <l>He is compared unto your Coſtly prize</l>
+            <l>Which though at firſt it lookes ſo paile and wan</l>
+            <l>Why yet within, there the Rich Treaſure lyes.</l>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
